@@ -7,7 +7,7 @@ import { themeColor, siteName } from "../data/items";
       <div class="site-navigation">
         <a href="" class="logo m-0 float-left"
           ><div style="max-width: auto; height: auto;">
-          <img src="src\assets\images\logosmp7.png" />
+          <img src="" />
           </div> </a
         >
         <ul class="js-clone-nav d-none d-lg-inline-block site-menu float-left">
